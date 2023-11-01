@@ -1,0 +1,19 @@
+{
+    "name": "natainditama/auctionx",
+    "description": "Online vehicle auctions built with PHP MVC",
+    "type": "project",
+    "license": "MIT",
+    "homepage": "https://auctionx-app.000webhostapp.com/",
+    "autoload": {
+        "psr-4": {
+            "NataInditama\\Auctionx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "natainditama",
+            "email": "natainditama.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
